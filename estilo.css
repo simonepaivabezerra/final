@@ -1,0 +1,61 @@
+
+html{margin: auto;
+    background-color: rgb(182, 238, 136);
+    text-align: center;
+}
+
+    h4{
+text-align: center;
+border: 2px rgb(60, 230, 173);
+font-size: 50px;
+text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+
+    img{
+        width: 100%;
+        border: 1px;
+        width: 100%;
+        width: 100%;
+    }
+    #titulo{
+        color: rgb(23, 23, 24);
+        padding-top: 5%;
+        font-size: 60px;
+     }
+     #imagem-fundo{
+        background: url("fundo");
+        color: rgb(238, 215, 11);
+    }
+   
+   @media all and (max-width:768px){
+
+   }
+   .coluna{
+    display: block;
+    width:80% ;
+    padding: 0;
+    margin: 10px auto;
+    float: none;
+
+   }
+   .logodiv{
+    width: 100%;
+    border:1px;
+    position: relative;
+    text-align: center;
+    padding: 0px;
+   }
+   
+    .logo {
+        margin: 0px;
+        transform: translateX(-50%);
+         
+    }
+
+   
+
+    
